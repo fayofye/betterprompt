@@ -7,9 +7,10 @@ Claude writes very good prompts for its own subagents: exact inputs, settled dec
 ## How it works
 
 1. **Finds what you actually want.** Claude reads the files, folder or URL you mention so the prompt names real paths and names.
-2. **Writes 2-3 rewrites.** Each one is a complete prompt, and they differ in a choice that matters (scope, depth, report vs. changes), not just wording.
-3. **You pick.** Choose one, ask for different options, or type what to change.
-4. **Claude runs it** as if you had typed the better prompt yourself.
+2. **Asks about your stack** when you're starting a new project: codebase, database, authentication and payments, with a recommended pick for each and room to name your own.
+3. **Writes 2-3 rewrites.** Each one is a complete prompt, and they differ in a choice that matters (scope, depth, report vs. changes), not just wording.
+4. **You pick.** Choose one, ask for different options, or type what to change.
+5. **Claude runs it** as if you had typed the better prompt yourself.
 
 ## Install
 
@@ -33,7 +34,7 @@ Start a new Claude Code session afterwards.
 /betterprompt review the roadmap against last week's plan and tell me what's missing
 ```
 
-Claude also uses it when you ask it to improve, rewrite or sharpen a prompt.
+Claude also uses it when you ask it to improve, rewrite or sharpen a prompt, or when you start a new project.
 
 ## Example
 
