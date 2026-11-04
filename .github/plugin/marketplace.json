@@ -1,0 +1,17 @@
+{
+  "name": "betterprompt",
+  "description": "Install BetterPrompt as a GitHub Copilot plugin.",
+  "owner": {
+    "name": "fayofye",
+    "url": "https://github.com/fayofye"
+  },
+  "plugins": [
+    {
+      "name": "betterprompt",
+      "description": "Turns a rough request into a sharp prompt, lets you pick from 2-3 rewrites, then runs it.",
+      "source": "./",
+      "category": "productivity",
+      "skills": "skills/"
+    }
+  ]
+}

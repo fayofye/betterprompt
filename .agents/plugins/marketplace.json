@@ -1,0 +1,21 @@
+{
+  "name": "betterprompt",
+  "interface": {
+    "displayName": "BetterPrompt"
+  },
+  "plugins": [
+    {
+      "name": "betterprompt",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/fayofye/betterprompt.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

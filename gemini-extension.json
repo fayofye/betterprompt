@@ -1,0 +1,5 @@
+{
+  "name": "betterprompt",
+  "version": "1.1.0",
+  "description": "Turns a rough request into a sharp prompt, lets you pick from 2-3 rewrites, then runs it."
+}

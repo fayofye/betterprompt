@@ -1,0 +1,14 @@
+{
+  "name": "betterprompt",
+  "version": "1.1.0",
+  "description": "Turns a rough request into a sharp prompt, lets you pick from 2-3 rewrites, then runs it.",
+  "author": {
+    "name": "fayofye",
+    "url": "https://github.com/fayofye"
+  },
+  "homepage": "https://github.com/fayofye/betterprompt",
+  "repository": "https://github.com/fayofye/betterprompt",
+  "license": "MIT",
+  "keywords": ["prompt", "prompting", "productivity", "planning"],
+  "skills": "./skills/"
+}
