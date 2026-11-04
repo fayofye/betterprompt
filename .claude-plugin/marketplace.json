@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "betterprompt",
+  "owner": {
+    "name": "fayofye",
+    "url": "https://github.com/fayofye"
+  },
+  "description": "Install BetterPrompt as a Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "betterprompt",
+      "source": "./",
+      "description": "Turns a rough request into a sharp prompt, lets you pick from 2-3 rewrites, then runs it.",
+      "license": "MIT",
+      "keywords": ["prompt", "prompting", "productivity", "planning"]
+    }
+  ]
+}
